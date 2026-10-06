@@ -1,0 +1,7 @@
+# Источник датчиков по умолчанию — pythonnet + LibreHardwareMonitorLib.dll (см. README).
+# psutil/WMI — только запасные варианты, если DLL не загрузилась.
+psutil>=5.9
+pythonnet>=3.0
+pyserial>=3.5
+WMI>=1.5          # опционально (fallback)
+pywin32>=306      # нужен для модуля WMI

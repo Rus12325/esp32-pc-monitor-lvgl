@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Game",
+    "path": "C:\\Games\\example.exe",
+    "args": []
+  },
+  {
+    "name": "Discord",
+    "path": "%LOCALAPPDATA%\\Discord\\Update.exe",
+    "args": ["--processStart", "Discord.exe"]
+  },
+  {
+    "name": "My Folder",
+    "path": "D:\\ЗАИ",
+    "shell": true
+  }
+]

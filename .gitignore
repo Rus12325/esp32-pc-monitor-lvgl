@@ -1,0 +1,17 @@
+# PlatformIO
+firmware/.pio/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Runtime state
+pc-agent/pc_agent.log
+*.log
+
+# Editors / OS
+.freebuff/
+.DS_Store
+Thumbs.db
